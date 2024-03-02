@@ -76,4 +76,9 @@ The decentralization of AI assets is not merely a technological endeavor but a c
 
 For more information and contributions, visit [AI3 GitHub Repository](https://github.com/carlosarturoceron/ai3).
 
----
+### Available Assets
+
+| Model         | Frameworks                                   | Task                | Author     | cid                                    |
+|---------------|----------------------------------------------|---------------------|------------|----------------------------------------|
+| spamDetection | TensorFlow2, TensorFlowLite, TFJS            | Text Classification | TensorFlow | bafybeibpfidw6stsf3leqj3af3wskx7bzjahiifbuny2adofhk |
+| imageNet      | TensorFlow2, TensorFlowLite, TFJS            | Image Feature Vector, Image Classification | TensorFlow | bafybei6rfobjb3r7wha56qo3a6yullryafcdtg2ipz5rxi5azj |
