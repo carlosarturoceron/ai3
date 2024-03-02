@@ -82,3 +82,25 @@ For more information and contributions, visit [AI3 GitHub Repository](https://gi
 |---------------|----------------------------------------------|---------------------|------------|----------------------------------------|
 | spamDetection | TensorFlow2, TensorFlowLite, TFJS            | Text Classification | TensorFlow | bafybeibpfidw6stsf3leqj3af3wskx7bzjahiifbuny2adofhk |
 | imageNet      | TensorFlow2, TensorFlowLite, TFJS            | Image Feature Vector, Image Classification | TensorFlow | bafybei6rfobjb3r7wha56qo3a6yullryafcdtg2ipz5rxi5azj |
+
+## Future Works 🚧🔮
+
+As we continue to build and improve AI3, we are excited about the road ahead. Our vision for the future involves several key initiatives:
+
+API to archive AI assets: bulding an API method that allows users to easly archive their work in to web3 storage services.
+
+Adding redundant storage service providers: Filecoin, Arweave, and other clients to increase duplication.
+
+Expansion of Model Library 📚: We will broaden our selection of open-source models, covering a wider array of AI applications to support and stimulate innovation across different fields.
+
+Enhanced Decentralization Features 🌐: By integrating more robust decentralized features such as DAO governance, we aim to put the power of AI development and distribution into the hands of the community.
+
+Interoperability Protocols 🤝: We are committed to enhancing the interoperability among diverse AI models and various blockchain platforms to create a more unified and powerful ecosystem.
+
+Educational Programs 🎓: To empower more individuals to contribute to and benefit from AI and Web3, we will launch educational initiatives, providing resources and learning opportunities for all skill levels.
+
+Community Building 👥: A strong, vibrant community is the backbone of any decentralized project. We will organize events like hackathons, workshops, and forums to nurture a collaborative environment.
+
+The journey towards a decentralized AI future is full of potential, and your contributions are invaluable.
+
+🌟 Join the AI3 community and be a part of the movement that shapes the future of decentralized AI. 🌟
